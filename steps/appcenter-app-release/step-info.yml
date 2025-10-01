@@ -1,4 +1,4 @@
-maintainer: community
+maintainer: bitrise
 removal_date: "2022-11-06"
 deprecate_notes: |
   This step is no longer maintained by its author.
